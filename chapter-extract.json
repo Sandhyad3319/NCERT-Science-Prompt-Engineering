@@ -1,0 +1,914 @@
+[
+  {
+    "chapter_title": "Reproduction in Animals",
+    "topics": [
+      {
+        "topic_name": "Modes of Reproduction",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Table of Young Ones",
+            "content_elements": [
+              {
+                "type": "table_content",
+                "value": "Table 6.1\nS. No. Animal Young one\n1. Human Baby\n2. Cat\n3. Dog\n4. Butterfly\n5. Hen Chick\n6. Cow\n7. Frog"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Sexual Reproduction and Asexual Reproduction",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "Just as in plants, there are two modes by which animals reproduce. These are:\n(i)Sexual reproduction, and\n(ii)Asexual reproduction."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Sexual Reproduction",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Male Reproductive Organs",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "The male reproductive organs include a pair of testes (singular, testis), two sperm ducts and a penis (Fig. 6.1). The testes produce the male gametes called sperms. Millions of sperms are produced by the testes. Look at Fig. 6.2 which shows the picture of a sperm. Though sperms are very small in size, each has a head, a middle piece and a tail. Does it appear to be a single cell? Indeed, each sperm is a single cell with all the usual cell components."
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.1: Male reproductive organs in humans"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.2: Human sperm"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Female Reproductive Organs",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "The female reproductive organs are a pair of ovaries, oviducts (fallopian tubes) and the uterus (Fig. 6.3). The ovary produces female gametes called ova (eggs) (Fig. 6.4). In human beings, a single matured egg is released into the oviduct by one of the ovaries every month. Uterus is the part where development of the baby takes place. Like the sperm, an egg is also a single cell."
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.3: Female reproductive organs in humans"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.4: Human Ovum"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Fertilisation",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "The first step in the process of reproduction is the fusion of a sperm and an ovum. When sperms come in contact with an egg, one of the sperms may fuse with the egg. Such fusion of the egg and the sperm is called fertilisation (Fig. 6.5). During fertilisation, the nuclei of the sperm and the egg fuse to form a single nucleus. This results in the formation of a fertilised egg or zygote (Fig. 6.6)."
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.5: Fertilisation"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.6: Zygote"
+              },
+              {
+                "type": "paragraph",
+                "value": "Fertilisation which takes place inside the female body is called internal fertilisation. Internal fertilisation occurs in many animals including humans, cows, dogs and hens."
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "External Fertilisation",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "You will be surprised to know that in many animals fertilisation takes place outside the body of the female. In these animals, fertilisation takes place in water. Let us find out how this happens."
+              },
+              {
+                "type": "activity",
+                "value": "Activity 6.1\nVisit some ponds or slow-flowing streams during spring or rainy season. Look out for clusters of frog’s eggs floating in water. Write down the colour and size of the eggs."
+              },
+              {
+                "type": "paragraph",
+                "value": "This type of fertilisation in which the fusion of a male and a female gamete takes place outside the body of the female is called external fertilisation. It is very common in aquatic animals such as fish, starfish, etc."
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.7: Eggs of frog"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Development of Embryo",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "Fertilisation results in the formation of zygote which begins to develop into an embryo [Fig. 6.8(a)]. The zygote divides repeatedly to give rise to a ball of cells [Fig. 6.8(b)]. The cells then begin to form groups that develop into different tissues and organs of the body. This developing structure is termed an embryo. The embryo gets embedded in the wall of the uterus for further development [Fig. 6.8(c)]."
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.8: (a) Zygote formation and development of an embryo from the zygote; (b) Ball of cells (enlarged); (c) Embedding of the embryo in the uterus (enlarged)"
+              },
+              {
+                "type": "paragraph",
+                "value": "The embryo continues to develop in the uterus. It gradually develops body parts such as hands, legs, head, eyes, ears etc. The stage of the embryo in which all the body parts can be identified is called a foetus (Fig. 6.9)."
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.9: Foetus in the uterus"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Viviparous and Oviparous Animals",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "We have learnt that some animals give birth to young ones while some animals lay eggs which later develop into young ones. The animals which give birth to young ones are called viviparous animals. Those animals which lay eggs are called oviparous animals."
+              },
+              {
+                "type": "activity",
+                "value": "Activity 6.2\nTry to observe eggs of the following organisms – frog, lizard, butterfly or moth, hen and crow or any other bird. Were you able to observe eggs of all of them? Make drawings of the eggs that you have observed."
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Young Ones to Adults",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "The new individuals which are born or hatched from the eggs continue to grow till they become adults. In some animals, the young ones may look very different from the adults. The life cycle of frog is shown in Fig. 6.10."
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.10: Life cycle of frog"
+              },
+              {
+                "type": "paragraph",
+                "value": "The transformation of the larva into an adult through drastic changes is called metamorphosis."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Asexual Reproduction",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Budding",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "In hydra too the new individuals develop as outgrowths from a single parent. This type of reproduction in which only a single parent is involved is called asexual reproduction. Since new individuals develop from the buds in hydra, this type of asexual reproduction is called budding."
+              },
+              {
+                "type": "activity",
+                "value": "Activity 6.3\nGet permanent slides of hydra. Observe them using hand lens or a microscope. Look out for any bulges from the parent body. Count the number of bulges that you see in different slides. Also, note the size of the bulges. Draw the diagram of hydra, as you see it. Compare it with the Fig. 6.11."
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.11: Budding in Hydra"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Binary Fission",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "Another method of asexual reproduction is observed in the microscopic organism, amoeba. Let us see how this happens. You have already learnt about the structure of amoeba. You will recall that amoeba is a single-celled organism [Fig. 6.12(a)]. It begins the process of reproduction by the division of its nucleus into two nuclei [Fig. 6.12(b)]. This is followed by division of its body into two, each part receiving a nucleus [Fig. 6.12(c)]. Finally, two amoebae are produced from one parent amoeba [Fig. 6.12(d)]. This type of asexual reproduction in which an animal reproduces by dividing into two individuals is called binary fission."
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.12: Binary fission in Amoeba"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Cloning",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Story of Dolly, the Clone",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "Cloning is the production of an exact copy of a cell, any other living part, or a complete organism. Cloning of an animal was successfully performed for the first time by Ian Wilmut and his colleagues at the Roslin Institute in Edinburgh, Scotland. They successfully cloned a sheep named Dolly [Fig. 6.13 (c)]. Dolly was born on 5th July 1996 and was the first mammal to be cloned."
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 6.13"
+              },
+              {
+                "type": "paragraph",
+                "value": "During the process of cloning Dolly, a cell was collected from the mammary gland of a female Finn Dorsett sheep [Fig. 6.13 (a)]. Simultaneously, an egg was obtained from a Scottish blackface ewe [Fig. 6.13 (b)]. The nucleus was removed from the egg. Then, the nucleus of the mammary gland cell from the Finn Dorsett sheep was inserted into the egg of the Scottish blackface ewe whose nucleus had been removed. The egg thus produced was implanted into the Scottish blackface ewe. Development of this egg followed normally and finally Dolly was born. Though Dolly was given birth by the Scottish blackface ewe, it was found to be absolutely identical to the Finn Dorsett sheep from which the nucleus was taken. Since the nucleus from the egg of the Scottish blackface ewe was removed, Dolly did not show any character of the Scottish blackface ewe. Dolly was a healthy clone of the Finn Dorsett sheep and produced several offspring of her own through normal sexual means. Unfortunately, Dolly died on 14th February 2003 due to a certain lung disease."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Keywords",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Keywords",
+            "content_elements": [
+              {
+                "type": "keywords",
+                "value": "ASEXUAL REPRODUCTION BINARY FISSION BUDDING EGGS EMBRYO EXTERNAL FERTILISATION FERTILISATION FOETUS INTERNAL FERTILISATION METAMORPHOSIS OVIPAROUS ANIMALS SEXUAL REPRODUCTION SPERMS VIVIPAROUS ANIMALS ZYGOTE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "What You Have Learnt",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Summary Points",
+            "content_elements": [
+              {
+                "type": "summary_point",
+                "value": "ÜThere are two modes by which animals reproduce. These are: (i) Sexual reproduction, and (ii) Asexual reproduction.\nÜReproduction resulting from the fusion of male and female gametes is called sexual reproduction.\nÜThe reproductive organs in the female include ovaries, oviducts and uterus.\nÜThe reproductive organs in male include testes, sperm ducts and penis.\nÜThe ovary produces female gametes called ova and the testes produce male gametes called sperms.\nÜThe fusion of ovum and sperm is called fertilisation. The fertilised egg is called a zygote.\nÜFertilisation that takes place inside the female body is called internal fertilisation. This is observed in human beings and other animals such as hens, cows and dogs.\nÜFertilisation that takes place outside the female body is called external fertilisation. This is observed in frogs, fish, starfish, etc.\nÜThe zygote divides repeatedly to give rise to an embryo.\nÜThe embryo gets embedded in the wall of the uterus for further development.\nÜThe stage of the embryo in which all the body parts are identifiable is called foetus.\nÜAnimals such as human beings, cows and dogs which give birth to young ones are called viviparous animals.\nÜAnimals such as hen, frog, lizard and butterfly which lay eggs are called oviparous animals.\nÜThe transformation of the larva into adult through drastic changes is called metamorphosis.\nÜThe type of reproduction in which only a single parent is involved is called asexual reproduction.\nÜIn hydra, new individuals develop from buds. This method of asexual reproduction is called budding.\nÜAmoeba reproduces by dividing itself into two. This type of asexual reproduction is called binary fission."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Exercises",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Questions and Activities",
+            "content_elements": [
+              {
+                "type": "question",
+                "value": "1.Explain the importance of reproduction in organisms.\n2.Describe the process of fertilisation in human beings.\n3.Choose the most appropriate answer.\n(a)Internal fertilisation occurs\n(i)in female body.\n(ii)outside female body.\n(iii)in male body.\n(iv)outside male body.\n(b)A tadpole develops into an adult frog by the process of\n(i) fertilisation (ii) metamorphosis (iii) embedding (iv) budding\n(c)The number of nuclei present in a zygote is\n(i) none (ii) one (iii) two (iv) four\n4.Indicate whether the following statements are True (T) or False (F).\n(a)Oviparous animals give birth to young ones. ( )\n(b)Each sperm is a single cell. ( )\n(c)External fertilisation takes place in frog. ( )\n(d)A new human individual develops from a cell called gamete. ( )\n(e)Egg laid after fertilisation is made up of a single cell. ( )\n(f)Amoeba reproduces by budding. ( )\n(g)Fertilisation is necessary even in asexual reproduction. ( )\n(h)Binary fission is a method of asexual reproduction. ( )\n(i)A zygote is formed as a result of fertilisation. ( )\n(j)An embryo is made up of a single cell. ( )\n5.Give two differences between a zygote and a foetus.\n6.Define asexual reproduction. Describe two methods of asexual reproduction in animals.\n7.In which female reproductive organ does the embryo get embedded?\n8.What is metamorphosis? Give examples.\n9.Differentiate between internal fertilisation and external fertilisation.\n10.Complete the crossword puzzle using the hints given below."
+              },
+              {
+                "type": "activity",
+                "value": "Extended Learning — Activities and Projects\n1.Visit a poultry farm. Talk to the manager of the farm and try to find out the answers to the following.\n(a)What are layers and broilers in a poultry farm?\n(b)Do hens lay unfertilised eggs?\n(c)How can you obtain fertilised and unfertilised eggs?\n(d)Are the eggs that we get in the stores fertilised or unfertilised?\n(e)Can you consume fertilised eggs?\n(f)Is there any difference in the nutritional value of fertilised and unfertilised eggs?\n2.Observe live hydra yourself and learn how they reproduce by doing the following activity:\nDuring the summer months collect water weeds from ponds or ditches along with the pond water and put them in a glass jar. After a day or so you may see several hydra clinging to the sides of the jar. Hydra is transparent, jelly-like and with tentacles. It clings to the jar with the base of its body. If the jar is shaken, the hydra will contract instantly into a small blob, at the same time drawing its tentacles in.\nNow take out few hydras from the jar and put them on a watch glass. Using a hand lens or a binocular or dissection microscope, observe the changes that are taking place in their body. Note down your observations.\n3.The eggs we get from the market are generally the unfertilised ones. In case you wish to observe a developing chick embryo, get a fertilised egg from the poultry or hatchery which has been incubated for 36 hours or more. You may then be able to see a white disc-like structure on the yolk. This is the developing embryo. Sometimes if the heart and blood vessels have developed you may even see a red spot.\n4.Talk to a doctor. Find out how twinning occurs. Look for any twins in your neighbourhood, or among your friends. Find out if the twins are identical or non-identical. Also find out why identical twins are always of the same sex? If you know of any story about twins, write it in your own words."
+              },
+              {
+                "type": "external_source",
+                "value": "For more information on animal reproduction, you can visit :\nl www.saburchill.com\nl www.teenshealth.org/teen/sexual-health"
+              },
+              {
+                "type": "did_you_know",
+                "value": "Did You Know?\nAn interesting organisation is observed in a honey bee hive, a colony of several thousand bees. Only one bee in the colony lays eggs. This bee is called the queen bee. All other female bees are worker bees. Their main job is to build the hive, look after the young and feed the queen bee adequately to keep her healthy so that she can lay eggs. A queen bee lays thousands of eggs. The fertilised eggs hatch into females, while the unfertilised eggs give rise to males, called drones. It is the job of the worker bees to maintain the temperature of the hive at around 35 °C to incubate the eggs."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_title": "Reaching the Age of Adolescence",
+    "topics": [
+      {
+        "topic_name": "Adolescence and Puberty",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Adolescence and Puberty",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "In this chapter, you will learn about changes that take place in the human body after which a person becomes capable of reproduction."
+              },
+              {
+                "type": "paragraph",
+                "value": "The period of life, when the body undergoes changes, leading to reproductive maturity, is called adolescence. Adolescence begins around the age of 11 and lasts upto 18 or 19 years of age. In girls, adolescence may begin a year or two earlier than in boys. Also, the period of adolescence varies from person to person."
+              },
+              {
+                "type": "paragraph",
+                "value": "The human body undergoes several changes during adolescence. These changes mark the onset of puberty. The most important change which marks puberty is that boys and girls become capable of reproduction. Puberty ends when an adolescent reaches reproductive maturity."
+              },
+              {
+                "type": "table_content",
+                "value": "Boys Girls\n8 72% 77%\n9 75% 81%\n10 78% 84%\n11 81% 88%\n12 84% 91%\n13 88% 95%\n14 92% 98%\n15 95% 99%\n16 98% 99.5%\n17 99% 100%\n18 100% 100%"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Changes at Puberty",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Increase in Height",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "The most conspicuous change during puberty is the sudden increase in height. At this time the long bones, that is, the bones of the arms and the legs elongate and make a person tall."
+              },
+              {
+                "type": "activity",
+                "value": "Use the Table for your friends and work out how tall they are likely to be. Find out who is likely to be the tallest and who might be the shortest in your class."
+              },
+              {
+                "type": "paragraph",
+                "value": "All parts of the body do not grow at the same rate. Sometimes the arms and legs or hands and feet of adolescents look oversized and out of proportion with the body. But soon the other parts catch up and result in a proportionate body."
+              },
+              {
+                "type": "paragraph",
+                "value": "You must have noticed that height of an individual is more or less similar to that of some family member. This is because height depends on the genes inherited from parents. It is, however, very important to eat the right kind of food during these growing years. This helps the bones, muscles and other parts of the body get adequate nourishment for growth."
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Change in Body Shape",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "Have you noticed that boys in your class have broader shoulders and wider chests than boys in junior classes? This is because they have entered the age of puberty when shoulders generally broaden as a result of growth. In girls, the region below the waist becomes wider."
+              },
+              {
+                "type": "paragraph",
+                "value": "In boys, the muscles of the body grow more prominently than in the girls. Thus, changes occurring in adolescent boys and girls are different."
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Voice Change",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "Did you notice that sometimes the voice of some of the boys in your class cracks? At puberty, the voice box or the larynx begins to grow. Boys develop larger voice boxes. The growing voice box in boys can be seen as a protruding part of the throat called Adam’s apple."
+              },
+              {
+                "type": "paragraph",
+                "value": "Generally, girls have a high pitched voice, whereas boys have a deep voice. In adolescent boys, sometimes, the muscles of the growing voice box go out of control and the voice becomes hoarse. This state may remain for a few days or weeks after which the voice becomes normal."
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Increased Activity of Sweat and Sebaceous Glands",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "During puberty the secretion of sweat glands and sebaceous glands (oil glands) increases. Many young people get acne and pimples on the face at this time because of the increased activity of these glands in the skin."
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Development of Sex Organs",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "At puberty, male sex organs like the testes and penis develop completely. The testes also begin to produce sperms. In girls, the ovaries enlarge and eggs begin to mature. Also ovaries start releasing mature eggs."
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Reaching Mental, Intellectual and Emotional Maturity",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "Adolescence is also a period of change in a person’s way of thinking. Adolescents are more independent than before and are also self conscious. Intellectual development takes place and they tend to spend considerable time thinking. In fact, it is often the time in one’s life when the brain has the greatest capacity for learning."
+              },
+              {
+                "type": "paragraph",
+                "value": "Sometimes, however, an adolescent may feel insecure while trying to adjust to the changes in the body and mind. But as adolescent learners, you should know that there is no reason to feel insecure. These changes are a natural part of growing up."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Secondary Sexual Characters",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Secondary Sexual Characters",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "In girls, breasts begin to develop at puberty and boys begin to grow facial hair, that is, moustaches and beard. As these features help to distinguish the male from the female they are called secondary sexual characters. Boys also develop hair on their chest. In both, boys and girls, hair grows under the arms and in the region above the thighs or the pubic region."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Role of Hormones in Initiating Reproductive Function",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Role of Hormones in Initiating Reproductive Function",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "The changes which occur at adolescence are controlled by hormones. Hormones are chemical substances. These are secretions from endocrine glands, or endocrine system."
+              },
+              {
+                "type": "paragraph",
+                "value": "The male hormone or testosterone begins to be released by the testes at the onset of puberty. This causes changes in boys about which you have just learnt, for example, the growth of facial hair. Once puberty is reached in girls, ovaries begin to produce the female hormone or estrogen which makes the breasts develop. Milk secreting glands or mammary glands develop inside the breasts. The production of these hormones is under the control of another hormone secreted from an endocrine gland called pituitary gland."
+              },
+              {
+                "type": "paragraph",
+                "value": "Endocrine glands release hormones into the bloodstream to reach a particular body part called target site. The target site responds to the hormone. There are many endocrine glands or ductless glands in the body."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Reproductive Phase of Life in Humans",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Reproductive Phase of Life in Humans",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "Adolescents become capable of reproduction when their testes and ovaries begin to produce gametes. The capacity for maturation and production of gametes lasts for a much longer time in males than in females."
+              },
+              {
+                "type": "paragraph",
+                "value": "In females, the reproductive phase of life begins at puberty (10 to 12 years of age) and generally lasts till the age of approximately 45 to 50 years. The ova begin to mature with the onset of puberty. One ovum matures and is released by one of the ovaries once in about 28 to 30 days. During this period, the wall of the uterus becomes thick so as to receive the egg, in case it is fertilised and begins to develop. This results in pregnancy. If fertilisation does not occur, the released egg, and the thickened lining of the uterus along with its blood vessels are shed off. This causes bleeding in women which is called menstruation. Menstruation occurs once in about 28 to 30 days. The first menstrual flow begins at puberty and is termed menarche. At 45 to 50 years of age, the menstrual cycle stops. Stoppage of menstruation is termed menopause. Initially, menstrual cycle may be irregular. It takes some time to become regular."
+              },
+              {
+                "type": "paragraph",
+                "value": "Menstrual cycle is controlled by hormones. The cycle includes the maturation of the egg, its release, thickening of uterine wall and its breakdown if pregnancy does not occur. In case the egg is fertilised it begins to divide and then gets embedded in the uterus for further development."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "How is the Sex of the Baby Determined?",
+        "sub_topics": [
+          {
+            "sub_topic_header": "How is the Sex of the Baby Determined?",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "Inside the fertilised egg or zygote is the instruction for determining the sex of the baby. This instruction is present in the thread-like structures, called chromosomes in the fertilised egg. Chromosomes are present inside the nucleus of every cell. All human beings have 23 pairs of chromosomes in the nuclei of their cells. Two chromosomes out of these are the sex chromosomes, named X and Y. A female has two X chromosomes, while a male has one X and one Y chromosome. The gametes (egg and sperm) have only one set of chromosomes. The unfertilised egg always has one X chromosome. But sperms are of two kinds. One kind has an X chromosome, and the other kind has a Y chromosome."
+              },
+              {
+                "type": "paragraph",
+                "value": "When a sperm containing X chromosome fertilises the egg, the zygote would have two X chromosomes and develop into a female child. If the sperm contributes a Y chromosome to the egg (ovum) at fertilisation, the zygote would develop into a male child."
+              },
+              {
+                "type": "paragraph",
+                "value": "Now you know that the sex chromosomes of the father determine the sex of an unborn baby. The belief that the mother is responsible for the sex of her baby is completely wrong and to blame her for this is totally unjustified."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Hormones other than Sex Hormones",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Hormones other than Sex Hormones",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "Apart from the pituitary, the testes and the ovaries, there are other endocrine glands in the body such as thyroid, pancreas and adrenals."
+              },
+              {
+                "type": "paragraph",
+                "value": "Their aunt also told them that their uncle was suffering from ‘diabetes’ because his pancreas was not producing the hormone insulin in sufficient quantities. Boojho and Paheli then asked their aunt about the adrenal glands, which are also shown in the chart hung on the wall of her clinic. The aunt told them that adrenal glands secrete hormones which maintain the correct salt balance in the blood. Adrenals also produce the hormone adrenalin. It helps the body to adjust to stress when one is very angry, embarrassed or worried."
+              },
+              {
+                "type": "paragraph",
+                "value": "Thyroid and adrenals secrete their hormones when they receive orders from the pituitary through its hormones. Pituitary also secretes growth hormone which is necessary for the normal growth of a person."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Role of Hormones in Completing the Life History of Insects and Frogs",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Role of Hormones in Completing the Life History of Insects and Frogs",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "You have already learnt about the life cycle of the frog. The tadpole passes through certain stages to become a frog. This change from larva to adult is called metamorphosis. Metamorphosis in insects is controlled by insect hormones. In a frog, it is controlled by thyroxine, the hormone produced by thyroid."
+              },
+              {
+                "type": "paragraph",
+                "value": "Thyroxine production requires the presence of iodine in water. If the water in which the tadpoles are growing does not contain sufficient iodine, the tadpoles cannot become adults."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Reproductive Health",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Reproductive Health",
+            "content_elements": [
+              {
+                "type": "paragraph",
+                "value": "The physical and mental well being of an individual is regarded as an individual’s health. To keep the body healthy, every human being, at any age, needs to have a balanced diet. The person must also observe personal hygiene and undertake adequate physical exercise."
+              },
+              {
+                "type": "paragraph",
+                "value": "During adolescence, however, these become even more essential as the body is growing."
+              },
+              {
+                "type": "paragraph",
+                "value": "Adolescence is a stage of rapid growth and development. Hence the diet for an adolescent has to be carefully planned. You have already learnt what a balanced diet is. Recall that a balanced diet means that the meals include proteins, carbohydrates, fats and vitamins in requisite proportions. Our Indian meal of roti/rice, dal (pulses) and vegetables is a balanced meal. Milk is a balanced food in itself. Fruits also provide nourishment. For infants, mother’s milk provides all the nourishment that they need."
+              },
+              {
+                "type": "paragraph",
+                "value": "Iron builds blood and iron-rich food such as leafy vegetables, jaggery, meat, citrus, Indian gooseberry (amla) are good for adolescents."
+              },
+              {
+                "type": "paragraph",
+                "value": "Everyone should have a bath at least once everyday. It is more necessary for teenagers because the increased activity of sweat glands sometimes makes the body smelly. All parts of the body should be washed and cleaned everyday. If cleanliness is not maintained there are chances of catching bacterial infection. Girls should take special care of cleanliness during the time of menstrual flow. They should keep track of their menstrual cycle and be prepared for the onset of menstruation. Use sanitary napkin or clean homemade pads. Change pads after every 4–5 hours as per the requirement."
+              },
+              {
+                "type": "paragraph",
+                "value": "Walking and playing in fresh air keeps the body fit and healthy. All young boys and girls should take walks, exercise and play outdoor games."
+              },
+              {
+                "type": "paragraph",
+                "value": "Adolescence is a period of much activity in the body and mind which is a normal part of growing up. So do not feel confused or insecure. If anybody suggests that you will get relief if you take some drugs, just say ‘No’ unless prescribed by the doctor. Drugs are addictive. If you take them once, you feel like taking them again and again. They harm the body in the long run. They ruin health and happiness."
+              },
+              {
+                "type": "paragraph",
+                "value": "You must have heard about AIDS which is caused by a dangerous virus, HIV. This virus can pass on to a normal person from an infected person by sharing the syringes used for injecting drugs. It can also be transmitted to an infant from the infected mother through her milk. The virus can also be transmitted through sexual contact with a person infected with HIV."
+              },
+              {
+                "type": "paragraph",
+                "value": "You might be knowing that in our country, the legal age for marriage is 18 years for girls and 21 years for boys. This is because teenage mothers are not prepared mentally or physically for motherhood. Early marriage and motherhood cause health problems in the mother and the child. It also curtails employment opportunities for the young woman and may cause mental agony as she is not ready for responsibilities of motherhood."
+              },
+              {
+                "type": "paragraph",
+                "value": "You have learnt here and from Chapter 6 the scientific facts related to human reproduction. There are many wrong notions which you should now be able to discard as informed adolescents. For example, there are myths and taboos regarding bodily changes that adolescents experience. Some of these are given below and you can now argue why these are myths and not facts."
+              },
+              {
+                "type": "numbered_list",
+                "value": "1.A girl becomes pregnant if she looks at boys during menstruation.\n2.The mother is responsible for the sex of her child.\n3.A girl should not be allowed to work in the kitchen during menstruation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Keywords",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Keywords",
+            "content_elements": [
+              {
+                "type": "keywords",
+                "value": "ADAM’S APPLE\nADOLESCENCE\nADRENALIN\nBALANCED DIET\nENDOCRINE GLANDS\nESTROGEN\nHORMONES\nINSULIN\nLARYNX\nPITUITARY GLAND\nPUBERTY\nREPRODUCTIVE HEALTH\nSECONDARY SEXUAL CHARACTERS\nSEX CHROMOSOMES\nTARGET SITE\nTESTOSTERONE\nTHYROXINE\nVOICE BOX"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "What You Have Learnt",
+        "sub_topics": [
+          {
+            "sub_topic_header": "What You Have Learnt",
+            "content_elements": [
+              {
+                "type": "what_i_have_learnt",
+                "value": "ÜHumans become capable of reproduction after puberty sets in. Children between the ages of 11 and 19 years are called adolescents.\nÜThe onset of puberty brings about growth of the reproductive organs. Hair grow at various places on the body. Breasts develop in girls and facial hair (moustache and beard) appear in boys. Voice of boys becomes hoarse as voice box enlarges during adolescence.\nÜChildren gain height during adolescence.\nÜThe onset of puberty and maturity of reproductive parts are controlled by hormones.\nÜHormones are secretions of endocrine glands which pour them directly into the blood stream.\nÜPituitary gland secretes hormones which include growth hormone and hormones that make other glands such as the testes, ovaries, thyroids and adrenals, secrete hormones. Pancreas secretes insulin, thyroid produces thyroxine and adrenals produce adrenalin.\nÜTestosterone is the male hormone and estrogen, the female hormone. The uterine wall in females prepares itself to receive the developing fertilised egg. In case there is no fertilisation, the thickened lining of the uterine wall breaks down and goes out of the body along with blood. This is called menstruation.\nÜSex of the unborn child depends on whether the zygote has XX or XY chromosomes.\nÜIt is important to eat balanced food and maintain personal hygiene during adolescence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Exercises",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Exercises",
+            "content_elements": [
+              {
+                "type": "exercise",
+                "value": "1.What is the term used for chemical secretions of endocrine glands responsible for changes taking place in the body?\n2.Define adolescence.\n3.What is menstruation? Explain.\n4.List changes in the body that take place at puberty.\n5.Prepare a Table having two columns depicting names of endocrine glands and hormones secreted by them.\n6.What are sex hormones? Why are they named so? State their function.\n7.Choose the correct option.\n(a) Adolescents should be careful about what they eat, because\n(i)proper diet develops their brains.\n(ii)proper diet is needed for the rapid growth taking place in their body.\n(iii)adolescents feel hungry all the time.\n(iv)taste buds are well developed in teenagers.\n(b)Reproductive age in women starts when their\n(i)menstruation starts.\n(ii)breasts start developing.\n(iii)body weight increases.\n(iv)height increases.\n(c) The right meal for adolescents consists of\n(i)chips, noodles, coke.\n(ii)chapati, dal, vegetables.\n(iii)rice, noodles and burger.\n(iv)vegetable cutlets, chips and lemon drink.\n8.Write notes on—\n(a)Adam’s apple.\n(b)Secondary sexual characters.\n(c)Sex determination in the unborn baby.\n9.Word game: Use the clues to work out the words.\nAcross\n3.Protruding voice box in boys\n4.Glands without ducts\n7.Endocrine gland attached to brain\n8.Secretion of endocrine glands\n9.Pancreatic hormone\n10.Female hormone\nDown\n1.Male hormone\n2.Secretes thyroxine\n3.Another term for teenage\n5.Hormone reaches here through blood stream\n6.Voice box\n7.Term for changes at adolescence\n10.The table below shows the data on likely heights of boys and girls as they grow in age. Draw graphs showing height and age for both boys and girls on the same graph paper. What conclusions can be drawn from these graphs?\nHeight (cm)\nBoys Girls\n0 53 53\n4 96 92\n8 114 110\n12 129 133\n16 150 150\n20 173 165"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Extended Learning — Activities and Projects",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Extended Learning — Activities and Projects",
+            "content_elements": [
+              {
+                "type": "activity",
+                "value": "1.Find out from your elder relatives about their awareness of the legal status of early marriage. You yourself may get information on it from your teacher, parents, a doctor or the internet. Write a two-minute speech explaining why early marriage is not good for the couple.\n2.Collect newspaper cuttings and information in magazines about HIV/AIDS. Write a one page article of 15 to 20 sentences on HIV/AIDS.\n3.In our country, according to 2011 census, there are 940 adolescent females for every 1000 males. Find out.\n(a)the concerns of the community regarding this low ratio. Remember that the chance of having a boy or a girl is equal.\n(b)what amniocentesis is and how useful this technique is. Why is its use for identification of sex of the unborn child banned in India?\n4.Put your ideas together and write a short note on the importance of knowing facts about reproduction."
+              },
+              {
+                "type": "external_source",
+                "value": "For more information visit :\nl www.teenshealth.org/teen/sexual_health/\nl www.adolescenthealth.com"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_title": "FORCE AND PRESSURE",
+    "topics": [
+      {
+        "topic_name": "Force - A Push or a Pull",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Activity 8.1",
+            "content_elements": [
+              {
+                "type": "table_content",
+                "value": "Table 8.1 : Identifying Actions as Push or Pull"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Forces are due to an Interaction",
+            "content_elements": [
+              {
+                "type": "image_description",
+                "value": "Fig. 8.2(a) : A man standing behind a stationary car"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.2(b) : A car being pushed by a man"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.3(a) : Who is pushing whom?"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.3(b) : Who is pulling whom?"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.3(c) : Who is pulling whom?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Exploring Forces",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Activity 8.2",
+            "content_elements": [
+              {
+                "type": "image_description",
+                "value": "Fig. 8.4 : Two friends pushing a heavy load (a) in the same direction, (b) in opposite direction"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "A Force can Change the State of Motion",
+            "content_elements": [
+              {
+                "type": "image_description",
+                "value": "Fig. 8.6 : A ball at rest begins to move when a force is applied on it"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.7 : To move a tyre faster it has to be pushed repeatedly"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.8 : (a) A ball set in motion by pushing it along a level surface and (b) the direction of motion of the ball after it strikes the ruler placed in its path"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Activity 8.3",
+            "content_elements": []
+          },
+          {
+            "sub_topic_header": "Activity 8.4",
+            "content_elements": []
+          }
+        ]
+      },
+      {
+        "topic_name": "Force can Change the Shape of an Object",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Activity 8.5",
+            "content_elements": [
+              {
+                "type": "table_content",
+                "value": "Table 8.2 : Studying the Effect of Force on Objects"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.9 : Muscular force of animals is used to carry out many difficult tasks"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Contact Forces",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Muscular Force",
+            "content_elements": []
+          },
+          {
+            "sub_topic_header": "Friction",
+            "content_elements": []
+          }
+        ]
+      },
+      {
+        "topic_name": "Non-contact Forces",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Magnetic Force",
+            "content_elements": [
+              {
+                "type": "image_description",
+                "value": "Fig. 8.10 : Observing attraction and repulsion between two magnets"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Activity 8.6",
+            "content_elements": []
+          },
+          {
+            "sub_topic_header": "Electrostatic Force",
+            "content_elements": [
+              {
+                "type": "image_description",
+                "value": "Fig. 8.11 : A straw rubbed with paper attracts another straw but repels it if it has also been rubbed with a sheet of paper"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Activity 8.7",
+            "content_elements": []
+          },
+          {
+            "sub_topic_header": "Gravitational Force",
+            "content_elements": []
+          }
+        ]
+      },
+      {
+        "topic_name": "Pressure",
+        "sub_topics": [
+          {
+            "sub_topic_header": null,
+            "content_elements": [
+              {
+                "type": "image_description",
+                "value": "Fig. 8.12 : Pushing a nail into a wooden plank"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.13 : A porter carrying a heavy load"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Pressure Exerted by Liquids and Gases",
+        "sub_topics": [
+          {
+            "sub_topic_header": "Activity 8.8",
+            "content_elements": [
+              {
+                "type": "image_description",
+                "value": "Fig. 8.14 : Pressure exerted by water at the bottom of the container depends on the height of its column"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Activity 8.9",
+            "content_elements": [
+              {
+                "type": "image_description",
+                "value": "Fig. 8.15 : A liquid exerts pressure on the walls of the container"
+              }
+            ]
+          },
+          {
+            "sub_topic_header": "Activity 8.10",
+            "content_elements": [
+              {
+                "type": "image_description",
+                "value": "Fig. 8.16 : Liquids exert equal pressure at the same depth"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Atmospheric Pressure",
+        "sub_topics": [
+          {
+            "sub_topic_header": null,
+            "content_elements": [
+              {
+                "type": "image_description",
+                "value": "Fig. 8.17 : Atmospheric pressure is the force of gravity on air in a column of unit area"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.18 : A rubber sucker pressed on a surface"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.19 : Pressure of atmosphere on your head"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.20 : Horses pulling the hemispheres"
+              },
+              {
+                "type": "did_you_know",
+                "value": "Otto von Guericke, a German scientist of the 17th century, invented a pump to extract air out of a vessel. With the help of this pump, he demonstrated dramatically the force of the air pressure. He joined two hollow metallic hemispheres of 51 cm diameter each and pumped air out of them. Then he employed eight horses on each hemisphere to pull them apart (Fig. 8.20). So great is the force of air pressure that the hemispheres could not be pulled apart."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "KEYWORDS",
+        "sub_topics": [
+          {
+            "sub_topic_header": null,
+            "content_elements": [
+              {
+                "type": "keywords",
+                "value": "ATMOSPHERIC PRESSURE CONTACT FORCE ELECTROSTATIC FORCE FORCE FRICTION GRAVITATIONAL FORCE GRAVITY MAGNETIC FORCE MUSCULAR FORCE NON-CONTACT FORCE PRESSURE PULL PUSH"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "WHAT YOU HAVE LEARNT",
+        "sub_topics": [
+          {
+            "sub_topic_header": null,
+            "content_elements": [
+              {
+                "type": "what_i_have_learnt",
+                "value": "ÜForce could be a push or a pull. ÜA force arises due to the interaction between two objects. ÜForce has magnitude as well as direction. ÜA change in the speed of an object or the di- rection of its motion or both implies a change in its state of motion. ÜForce acting on an object may cause a change in its state of motion or a change in its shape. ÜA force can act on an object with or without being in contact with it. ÜForce per unit area is called pressure. ÜLiquids and gases exert pressure on the walls of their containers. ÜThe pressure exerted by air around us is known as atmospheric pressure."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Exercises",
+        "sub_topics": [
+          {
+            "sub_topic_header": null,
+            "content_elements": [
+              {
+                "type": "exercise",
+                "value": "1.Give two examples each of situations in which you push or pull to change the state of motion of objects. 2.Give two examples of situations in which applied force causes a change in the shape of an object. 3.Fill in the blanks in the following statements. (a)To draw water from a well we have to __________ at the rope. (b)A charged body __________ an uncharged body towards it. (c)To move a loaded trolley we have to __________ it. (d)The north pole of a magnet __________the north pole of another magnet. 4.An archer stretches her bow while taking aim at the target. She then releases the arrow, which begins to move towards the target. Based on this information fill up the gaps in the following statements using the following terms. muscular , contact, non-contact, gravity, friction, shape, attraction (a)To stretch the bow, the archer applies a force that causes a change in its __________. (b)The force applied by the archer to stretch the bow is an example of __________ force. (c)The type of force responsible for a change in the state of motion of the arrow is an example of a __________ force. (d)While the arrow moves towards its target, the forces acting on it are due to __________ and that due to __________ of air . 5.In the following situations identify the agent exerting the force and the object on which it acts. State the effect of the force in each case. (a)Squeezing a piece of lemon between the fingers to extract its juice. (b)Taking out paste from a toothpaste tube. (c)A load suspended from a spring while its other end is on a hook fixed to a wall. (d)An athlete making a high jump to clear the bar at a certain height. 6.A blacksmith hammers a hot piece of iron while making a tool. How does the force due to hammering affect the piece of iron? 7.An inflated balloon was pressed against a wall after it has been rubbed with a piece of synthetic cloth. It was found that the balloon sticks to the wall. What force might be responsible for the attraction between the balloon and the wall? 8.Name the forces acting on a plastic bucket containing water held above ground level in your hand. Discuss why the forces acting on the bucket do not bring a change in its state of motion. 9.A rocket has been fired upwards to launch a satellite in its orbit. Name the two forces acting on the rocket immediately after leaving the launching pad. 10.When we press the bulb of a dr opper with its nozzle kept in water , air in the dropper is seen to escape in the form of bubbles. Once we release the pressure on the bulb, water gets filled in the dr opper . The rise of water in the dropper is due to (a)pressure of water . (b)gravity of the earth. (c)shape of rubber bulb. (d)atmospheric pressure."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic_name": "Extended Learning — Activities and Projects",
+        "sub_topics": [
+          {
+            "sub_topic_header": null,
+            "content_elements": [
+              {
+                "type": "activity",
+                "value": "1.Make a 50 cm × 50 cm bed of dry sand about 10 cm in thickness. Make sure that its top surface is levelled. Take a wooden or a plastic stool. Cut two strips of graph paper each with a width of 1 cm. Paste them vertically on any leg of the stool - one at the bottom and the other from the top. Now gently put the stool on the sand bed with its legs resting on the sand. Increase the size of sand bed if required. Now put a load, say a school bag full of books, on the seat of the stool. Mark the level of sand on the graph strip. This would give you the depth, if any, to which the legs of stool sink in sand. Next, turn the stool upside down so that now it rests on its seat on the sand bed. Note the depth to which the stool sinks now. Next, put the same load on the stool and note the depth to which it sinks in the sand. Compare the pressure exerted by the stool in the two situations. 2.Take a tumbler and fill it with water. Cover the mouth of the tumbler with a thick card similar to that of a postcard. Hold the tumbler with one hand while keeping the card pressed to its mouth with your other hand. Turn the tumbler upside down while keeping the card pressed to its mouth. Make sure that the tumbler is held vertical. Gently remove the hand pressing the card. What do you observe? Does the card get detached allowing the water to spill? With a little practice you will find that the card continues to hold water in the tumbler even after it is not supported by your hand. Also try this activity by using a piece of cloth to hold the tumbler in an upside down position (Fig. 8.21). 3.Take 4-5 plastic bottles of different shapes and sizes. Join them together with small pieces of glass or rubber tube as shown in Fig. 8.22. Keep this arrangement on a level surface. Now pour water in any one of the bottles. Note whether the bottle in which water is poured gets filled first or all the bottles get filled up simultaneously. Note the level of water in all the bottles from time to time. Try to explain your observations."
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.21"
+              },
+              {
+                "type": "image_description",
+                "value": "Fig. 8.22"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
