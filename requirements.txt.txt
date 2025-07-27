@@ -1,0 +1,6 @@
+google-generativeai
+pypdf
+pandas
+openpyxl
+python-dotenv
+requests
